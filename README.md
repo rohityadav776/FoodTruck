@@ -1,4 +1,4 @@
-# FoodTruckProj
+# FoodTruck
 
 A new Flutter project.
 
